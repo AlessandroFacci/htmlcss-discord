@@ -178,3 +178,7 @@ li {
 .white-dashed {
   border: 2px dashed white;
 }
+
+.text-align {
+  text-align: center;
+}

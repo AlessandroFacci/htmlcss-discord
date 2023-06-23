@@ -171,6 +171,14 @@ header img {
   margin-bottom: 40px;
 }
 
+.sprinkle {
+  background-image: url("../img2/stars.svg");
+  background-position: center;
+  padding-top: 3rem;
+  background-repeat: no-repeat;
+  background-size: 30%;
+}
+
 .box-fifth-s {
   width: 1400px;
   height: 900px;

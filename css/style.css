@@ -318,3 +318,13 @@ li {
 .text-align {
   text-align: center;
 }
+
+.wave {
+  color: #d3d3d3;
+  display: block;
+}
+
+.wave-upside-down {
+  transform: rotate(180deg);
+  color: #d3d3d3;
+}

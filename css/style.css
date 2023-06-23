@@ -23,8 +23,9 @@ header {
   height: 50px;
 }
 
-.logo {
-  font-size: 23px;
+header img {
+  height: 45px;
+  width: auto;
 }
 
 .login {
@@ -224,10 +225,6 @@ a {
   color: black;
 }
 
-.logo-end {
-  padding: 5px 10px;
-}
-
 .bottone {
   padding: 5px 10px;
 }
@@ -258,6 +255,11 @@ h4 {
 
 .f-text {
   margin-bottom: 10px;
+}
+
+.end-footer img {
+  height: 45px;
+  width: auto;
 }
 
 .sign-in {

@@ -183,7 +183,7 @@ footer {
 
 .footer-container {
   width: 1400px;
-  height: 600px;
+  min-height: 300px;
   margin-top: 10px;
   margin-bottom: 40px;
 }
@@ -230,6 +230,43 @@ a {
 
 .bottone {
   padding: 5px 10px;
+}
+
+footer h2 {
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
+
+.flag {
+  height: 14px;
+  width: 23px;
+}
+
+li i {
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+footer * {
+  color: white;
+}
+
+h2,
+h4 {
+  color: #738adc;
+}
+
+.f-text {
+  margin-bottom: 10px;
+}
+
+.sign-in {
+  margin-right: 5px;
+  padding: 10px 15px;
+  border-radius: 50px;
+  font-size: 20px;
+  border: none;
+  background-color: #738adc;
 }
 
 /* UTILITIS */
